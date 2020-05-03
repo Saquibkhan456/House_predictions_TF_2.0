@@ -1,4 +1,6 @@
 # House_predictions_TF_2.0
+Note: The original code was written in Jupyter notebook but Github isn't supporting the notebooks temporarily, so had to convert it into .py format
+
 Regression task which helps to find prices of houses depending on various other variables.
 The regression is done on a dataset(Kaggle) containing information about houses and has following feature variables:
 
